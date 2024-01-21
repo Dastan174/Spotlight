@@ -1,0 +1,108 @@
+{
+  "products": [
+    {
+      "title": "Jordan Pro Cap ",
+      "description": "Jordan on your feet, Jordan on your dome. The Pro Cap is a structured snapback made from a woven crown for an elevated look that's made to last. Plus, it's decked out in understated Jordan graphics.  Colour Shown: Gym Red/Black/Black Style: FD5184-687",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/ee3e59bb-a174-45f7-82d3-dc5a2042073d/jordan-pro-cap-adjustable-hat-QZvK1c.png",
+      "price": 30,
+      "category": "Cap",
+      "id": 1
+    },
+    {
+      "title": "Nike Dri-FIT Club",
+      "description": "Step up your Swoosh game with this mid-depth, unstructured Club Cap. Its curved bill and metal Swoosh logo give your look a clean finish, while sweat-wicking fabric helps you stay cool and comfortable as you make the most of warm, sunny weather.  Colour Shown: Coconut Milk/Metallic Silver Style: FB5372-113",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1102f484-8842-4933-a66f-79e3d362733d/dri-fit-club-unstructured-metal-swoosh-cap-tBjXv8.png",
+      "price": 35,
+      "category": "cap",
+      "id": 2
+    },
+    {
+      "title": "Nike Club ",
+      "description": "Our beloved mascot is moving up in the world! Boxy started on tees and now joins in on headwear. Seen here on this mid-depth, curved-bill Club Cap, Boxy is sure to make all your friends and classmates feel welcome with a nice, big ol' wave.  Colour Shown: Luminous Green/High Voltage Style: FB5362-331",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d5fb45f9-8ddd-4f76-b412-923888827737/club-adjustable-unstructured-boxy-cap-10Xbx9.png",
+      "price": 29,
+      "category": "Cap",
+      "id": 3
+    },
+    {
+      "title": "Jordan Jumpman",
+      "description": "Top off your outfit with a look that begs for some sunshine. The Jordan Jumpman Bucket Hat is made from lightweight woven twill that's been washed for a vintage look.  Colour Shown: Gym Red/Black Style: DC3687-687",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/7368efbb-933b-4f96-9ed5-705802be2a94/jordan-jumpman-washed-bucket-hat-kblNWN.png",
+      "price": 29,
+      "category": "Cap",
+      "id": 4
+    },
+    {
+      "title": "Coffee & Jazz Rap",
+      "description": "This is a demonstration store. You can purchase products like this from Coursework.  Coffee & Jazz Rap. A Coursework vibe.  6.1 oz., 100% ring spun cotton Soft-washed garment-dyed fabric",
+      "image": "https://theme-spotlight-demo.myshopify.com/cdn/shop/products/DSC07686_Coffee-Jazz-Rap_Black_Shopify_1080x_3c0ebed9-cef5-46d5-ac64-083c2714af73.webp?v=1676406430&width=600",
+      "price": 36,
+      "category": "Shirt",
+      "id": 5
+    },
+    {
+      "title": "Course Work Tee",
+      "description": "This is a demonstration store. You can purchase products like this from Coursework.  Read some books. Learn from your masters.  5.0 oz.,100% pre-shrunk combed ringspun cotton Vintage heavy wash jersey Ribbed collar Blind stitching on sleeves and hem Garment washed for softness Share",
+      "image": "https://theme-spotlight-demo.myshopify.com/cdn/shop/products/Required-Reading-Tee_Black_Front_1080x_a96593fd-47bc-4e8a-bea2-726a8283a9b0.webp?v=1676407121&width=600",
+      "price": 36,
+      "category": "Shirt",
+      "id": 6
+    },
+    {
+      "title": "Creative Label Tee",
+      "description": "This is a demonstration store. You can purchase products like this from Coursework.  You are what you say you are. We're a creative label for creative types. 5.0 oz.,100% pre-shrunk combed ringspun cotton Vintage heavy wash jersey Garment washed for softness",
+      "image": "https://theme-spotlight-demo.myshopify.com/cdn/shop/products/Creative-Label-Tee_White-Front_1080x_1a0b4a40-d2c5-406d-96dc-a70aa8c0af8b.webp?v=1676406143&width=600",
+      "price": 48,
+      "category": "Shirt",
+      "id": 7
+    },
+    {
+      "title": "Never Not Working Tee",
+      "description": "This is a demonstration store. You can purchase products like this from Coursework.  Our brains are never not working. Always on to the next one.",
+      "image": "https://theme-spotlight-demo.myshopify.com/cdn/shop/products/Never-Not-Working-Tee_Black_Front_1080x_c522e4e4-ca72-49d9-91ac-2948db699111.webp?v=1676488037&width=600",
+      "price": 36,
+      "category": "Shirt",
+      "id": 8
+    },
+    {
+      "title": "New Balance 997H Sneaker",
+      "description": "New Balance 997H Sneaker - Men's The 997H sneaker by New Balance looks versatile with its heritage-modern design. This fabric sneaker offers you lightweight comfort and support with ENCAP Reveal midsole technology that merges lightweight foam with a split-detail polyurethane rim. Rubber pods in the sole delivers reliable traction.  Item # 530537 UPC # 196307610650 FEATURES Fabric upper Lace-up closure Round toe Fabric lining Lightweight EVA foam midsole Run Type: Everyday Surface Type: Road Rubber pods sole Imported",
+      "image": "https://images.dsw.com/is/image/DSWShoes/530537_081_ss_01?impolicy=qlt-medium-high&imwidth=640&imdensity=2",
+      "price": null,
+      "category": "Shoes",
+      "id": 9
+    },
+    {
+      "title": "Crown Vintage Edsul Sneaker",
+      "description": "Crown Vintage Edsul Sneaker The rhythmic sound of new copies is paired with the high-speed clicking of your coworker’s keyboard; a reminder that the workday is nearing its end. You’re glad you decided to wear your Edsul oxford-inspired sneakers from Crown Vintage so when you leave the office, you’ll be ready for happy hour. The sweet relief of the weekend is just a few hours away.   What they are: Lace-ups that are constructed with a casual touch. Featuring intricate stitching along the sides to elevate any ensemble.    Why you’ll love them: Tied together and tailored, this pair feature a classic silhouette that can easily upgrade any look. The sneaker-inspired sole makes this pair easy to dress up or down.   How we’d wear them: From jeans and a button-down, to khakis and a pullover, these shoes will become a staple thanks to their versatile style.    Item # 523902 UPC # 190234751967 FEATURES Synthetic upper Lace-up closure Round toe Padded collar & tongue Mesh fabric lining Removable cushioned insole Molded midsole Synthetic treaded sole Imported",
+      "image": "https://images.dsw.com/is/image/DSWShoes/523902_240_ss_01?impolicy=qlt-medium-high&imwidth=640&imdensity=2",
+      "price": 59,
+      "category": "Shoes",
+      "id": 10
+    },
+    {
+      "title": "Skechers Hands",
+      "description": "Skechers Hands Free Slip-Ins: Summit Slip-On Sneaker - Men's The Summit slip-on sneakers from Skechers feature a Hands Free Slip-Ins:™ molded heel that you can slide into and head out the door. This pair rocks a Stretch Fit® engineered knit upper with an Ankle Pillow™ and an Air-Cooled Memory Foam® footbed for added comfort.  Item # 565395 UPC # 196642406857 FEATURES Machine-washable engineered knit upper Slip-on with Hands Free Slip-ins™ molded heel Round toe with bumper Padded collar with Ankle Pillow™ Textile lining Air-Cooled Memory Foam® footbed Foam midsole Flexible synthetic traction sole Imported  ",
+      "image": "https://images.dsw.com/is/image/DSWShoes/565395_417_ss_01?impolicy=qlt-medium-high&imwidth=640&imdensity=2",
+      "price": 74,
+      "category": "Shoes",
+      "id": 11
+    },
+    {
+      "title": "Adidas Runfalcon",
+      "description": "adidas Runfalcon 3.0 Running Shoe - Men's Be active throughout the day donning the Runfalcon 3.0 running shoe by Adidas. This sneaker is designed with sandwich mesh upper for a lightweight, breathable feel, CloudFoam EVA midsole and durable rubber sole.  Item # 539600 UPC # 195747016329 FEATURES Mesh fabric & synthetic upper made of recycled materials Lace-up closure Round toe with bumper Padded collar & tongue Fabric lining CloudFoam midsole Rubber sole Imported",
+      "image": "https://images.dsw.com/is/image/DSWShoes/539600_001_ss_01?impolicy=qlt-medium-high&imwidth=640&imdensity=2",
+      "price": 64,
+      "category": "Shoes",
+      "id": 12
+    },
+    {
+      "title": "adsdsa",
+      "description": "asdasd",
+      "image": "dasdas",
+      "price": null,
+      "category": "das",
+      "id": 13
+    }
+  ]
+}
